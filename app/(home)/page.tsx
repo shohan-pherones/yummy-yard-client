@@ -1,3 +1,4 @@
+import Bio from "@/components/Bio";
 import Category from "@/components/Category";
 import Hero from "@/components/Hero";
 
@@ -6,6 +7,7 @@ const HomePage = () => {
     <main>
       <Hero />
       <Category />
+      <Bio />
     </main>
   );
 };
