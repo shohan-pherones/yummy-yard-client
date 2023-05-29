@@ -16,3 +16,7 @@
 .swiper-pagination-bullet-active {
   background-color: #faf7f5 !important;
 }
+
+.wrapper {
+  @apply container mx-auto px-5 lg:px-0;
+}

@@ -1,6 +1,7 @@
 import Bio from "@/components/Bio";
 import Category from "@/components/Category";
 import Hero from "@/components/Hero";
+import PopularMenu from "@/components/PopularMenu";
 
 const HomePage = () => {
   return (
@@ -8,6 +9,7 @@ const HomePage = () => {
       <Hero />
       <Category />
       <Bio />
+      <PopularMenu />
     </main>
   );
 };

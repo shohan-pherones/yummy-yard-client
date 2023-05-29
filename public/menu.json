@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e0",
+    "name": "Classic Cheeseburger",
+    "recipe": "Juicy beef patty topped with melted cheddar cheese, fresh lettuce, ripe tomatoes, and tangy pickles, served on a toasted sesame bun.",
+    "price": 10.99,
+    "image": "https://img.freepik.com/free-photo/front-view-burger-with-veggies-meat_23-2148868238.jpg?w=740&t=st=1685398852~exp=1685399452~hmac=4d025c82f43487d81e5b77ed7261ebe652a804b6d9580dcd8eefcbca2fcae7a9",
+    "category": "burgers"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e1",
+    "name": "Creamy Alfredo Pasta",
+    "recipe": "Al dente fettuccine pasta tossed in a rich and creamy Alfredo sauce, garnished with grated Parmesan cheese and fresh parsley.",
+    "price": 12.99,
+    "image": "https://img.freepik.com/free-photo/closeup-cooked-fettuccine-with-cream-spices-bowl-lights_181624-30653.jpg?w=996&t=st=1685398883~exp=1685399483~hmac=91a7c8d201e03ddef921260963211441b05c2a3f78542c28097c3ee0b7604388",
+    "category": "pasta"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e2",
+    "name": "Savory Beef Ramen",
+    "recipe": "Slow-cooked beef broth filled with tender slices of beef, springy noodles, and an assortment of vegetables, garnished with green onions and a soft-boiled egg.",
+    "price": 11.99,
+    "image": "https://img.freepik.com/free-photo/spicy-red-soup-beef-noodle-bowl-wooden-table_1205-12724.jpg?w=996&t=st=1685398936~exp=1685399536~hmac=df2716ef2ce252f26853c0c60e1d776e3f8336f8f560c6440dd32b1e6abb9d68",
+    "category": "popular"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e3",
+    "name": "BBQ Bacon Cheeseburger",
+    "recipe": "Grilled beef patty smothered in tangy BBQ sauce, topped with crispy bacon, melted American cheese, and caramelized onions, served on a brioche bun.",
+    "price": 12.99,
+    "image": "https://img.freepik.com/free-photo/meat-burger-with-fried-potatoes_140725-9867.jpg?w=740&t=st=1685398966~exp=1685399566~hmac=a9532be1aec0d0ffe7bed8b5f0345a857e547656e34e93476e094737dcee6584",
+    "category": "burgers"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e4",
+    "name": "Spaghetti Carbonara",
+    "recipe": "Spaghetti pasta coated in a creamy egg-based sauce with crispy pancetta, Parmesan cheese, and cracked black pepper.",
+    "price": 11.99,
+    "image": "https://img.freepik.com/free-photo/appetizing-pasta-with-tomato-sauce-parmesan-plate-closeup_1220-6923.jpg?w=996&t=st=1685399003~exp=1685399603~hmac=20666a751cd3c4798f3e00f9c958e9c15a76b4258dc205871b177ff19aaa19e3",
+    "category": "pasta"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e5",
+    "name": "Miso Ramen",
+    "recipe": "Traditional Japanese ramen with a flavorful miso broth, tender chashu pork, marinated bamboo shoots, nori seaweed, and a seasoned soft-boiled egg.",
+    "price": 10.99,
+    "image": "https://img.freepik.com/free-photo/delicious-ramen-dark-surface_1150-41973.jpg?w=996&t=st=1685399020~exp=1685399620~hmac=0ee48af258aabd95394f2a3d8e4d1b52f55c8f0ec915a0ad168548827027f230",
+    "category": "ramen"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e6",
+    "name": "Mushroom Swiss Burger",
+    "recipe": "Grilled beef patty topped with sautéed mushrooms, melted Swiss cheese, and a creamy garlic aioli, served on a toasted ciabatta bun.",
+    "price": 11.99,
+    "image": "https://img.freepik.com/free-photo/front-view-tasty-burger-along-with-olives-cheese-tomatoes-green-salad-inside-round-plate_140725-11661.jpg?w=740&t=st=1685399042~exp=1685399642~hmac=f978b9ebfb23eaa7369ca70b6eba52a44635765914337df68e6cddebaa087400",
+    "category": "popular"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e7",
+    "name": "Tender Beef Stir-Fry",
+    "recipe": "Tender strips of beef sautéed with colorful bell peppers, crisp broccoli, and onions, tossed in a savory soy-based sauce, served over steamed jasmine rice.",
+    "price": 13.99,
+    "image": "https://img.freepik.com/free-photo/stir-frying-beef-with-sweet-peppers-green-beans_2829-20102.jpg?w=996&t=st=1685399064~exp=1685399664~hmac=5d805ef602b70224256927496c1142fd0db14b2450959e298f746850b6f3fdee",
+    "category": "beef"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e8",
+    "name": "Crispy Fried Chicken",
+    "recipe": "Crispy and golden fried chicken with a flavorful seasoned coating, served with a side of creamy mashed potatoes and coleslaw.",
+    "price": 11.99,
+    "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?w=996&t=st=1685399081~exp=1685399681~hmac=4408caa5e3dd54c5655ff112a2b88db553bf0a9417617ed184be2efd02007824",
+    "category": "popular"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2e9",
+    "name": "Grilled Salmon",
+    "recipe": "Fresh salmon fillet seasoned with herbs and grilled to perfection, accompanied by a medley of roasted vegetables and a tangy lemon-butter sauce.",
+    "price": 14.99,
+    "image": "https://img.freepik.com/free-photo/slice-grilled-salmon_144627-11114.jpg?w=996&t=st=1685399099~exp=1685399699~hmac=46dcdec9cc089c19fd099a880a26249619ddcd68e754959673dc1ef5d95b562d",
+    "category": "popular"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ea",
+    "name": "Loaded Cheese Fries",
+    "recipe": "Crispy fries topped with melted cheese, crispy bacon bits, tangy sour cream, and chopped green onions.",
+    "price": 8.99,
+    "image": "https://img.freepik.com/free-photo/tray-junk-food-fast-food-chicken-nuggets-french-fries_53876-31291.jpg?w=996&t=st=1685399123~exp=1685399723~hmac=fff2d16499cde48cc2d5bc8faed62ccd91eb03eb1fed90ad2427c519a4c92f06",
+    "category": "fries"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2eb",
+    "name": "Beef Tacos",
+    "recipe": "Soft corn tortillas filled with seasoned ground beef, fresh lettuce, diced tomatoes, shredded cheese, and a zesty salsa, served with a side of guacamole and sour cream.",
+    "price": 9.99,
+    "image": "https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14221.jpg?w=996&t=st=1685399140~exp=1685399740~hmac=b532a73702d2860d5e491587f729041088153374923a0da3f915c425829163e5",
+    "category": "popular"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ec",
+    "name": "Grilled Chicken Caesar Salad",
+    "recipe": "Grilled chicken breast sliced over crisp romaine lettuce, tossed in a creamy Caesar dressing, topped with shaved Parmesan cheese and crunchy croutons.",
+    "price": 10.99,
+    "image": "https://img.freepik.com/free-photo/caesar-salad-with-croutons_1147-34.jpg?1&w=996&t=st=1685399156~exp=1685399756~hmac=0bdffb7c7f5628b7cca0bd890c6792e95da0135a9cf8db85560f426c4c6e3333",
+    "category": "chicken"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ed",
+    "name": "Crispy Fish and Chips",
+    "recipe": "Beer-battered fish fillets fried until golden brown, served with a side of crispy fries, tartar sauce, and a wedge of lemon.",
+    "price": 12.99,
+    "image": "https://img.freepik.com/free-photo/plate-crispy-fried-calamari-prawn-tomato-chicken-croquette-sauce_140725-1998.jpg?w=996&t=st=1685399185~exp=1685399785~hmac=6cb5f6395e8f97643c46a2cfab2c9f1b48442e6a543eef3c392a125b59b8ca46",
+    "category": "popular"
+  }
+]
