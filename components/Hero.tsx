@@ -8,6 +8,7 @@ import { data } from "@/data/sliderImages";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
+import Overlay from "./Overlay";
 
 const Hero = () => {
   return (
@@ -39,7 +40,7 @@ const Hero = () => {
                 height={1080}
                 className="w-full h-full object-cover"
               />
-              <div className="absolute z-[1] top-0 left-0 w-full h-full bg-gradient-to-t from-black/75 to-transparent"></div>
+              <Overlay />
               <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white text-center z-[2] space-y-5">
                 <h1
                   data-swiper-parallax="-100%"
