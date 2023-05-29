@@ -7,16 +7,20 @@ import { data } from "@/data/categoryImages";
 import Overlay from "./Overlay";
 import "swiper/css";
 import "swiper/css/pagination";
+import SectionTitle from "./SectionTitle";
 
 const Category = () => {
   return (
     <section className="py-20">
-      <div>
-        <h2 className="text-3xl font-bold text-center pb-10">Categories</h2>
-      </div>
+      <SectionTitle
+        subTitle="Categories"
+        title="Delicious Delights: Explore Our Culinary Categories"
+      />
 
       <div className="w-full h-[50vh]">
         <Swiper
+          speed={750}
+          loop={true}
           grabCursor={true}
           slidesPerView={3}
           spaceBetween={30}
