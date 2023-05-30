@@ -4,17 +4,17 @@
 
 .swiper-button-next,
 .swiper-button-prev {
-  color: #faf7f5 !important;
-  fill: #faf7f5 !important;
-  stroke: #faf7f5 !important;
+  color: #e45b8c !important;
+  fill: #e45b8c !important;
+  stroke: #e45b8c !important;
 }
 
 .swiper-pagination-bullet {
-  background-color: rgba(250, 247, 245, 0.75) !important;
+  background-color: rgba(228, 91, 139, 0.75) !important;
 }
 
 .swiper-pagination-bullet-active {
-  background-color: #faf7f5 !important;
+  background-color: #e45b8c !important;
 }
 
 .wrapper {

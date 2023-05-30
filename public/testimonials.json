@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "61584e9d9c2a4c001fd0b59a",
+    "name": "John Doe",
+    "image": "https://randomuser.me/api/portraits/men/94.jpg",
+    "body": "Yummy Yard has become my go-to food ordering website. The variety of cuisines available is amazing, and the delivery is always prompt. Highly recommended!",
+    "rating": 5,
+    "designation": "Marketing Manager"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b59b",
+    "name": "Jane Smith",
+    "image": "https://randomuser.me/api/portraits/women/88.jpg",
+    "body": "I love how user-friendly Yummy Yard is. The interface is clean, and the ordering process is simple. The food quality has been consistently excellent too!",
+    "rating": 4.5,
+    "designation": "Operations Supervisor"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b59c",
+    "name": "Mike Johnson",
+    "image": "https://randomuser.me/api/portraits/men/64.jpg",
+    "body": "The Yummy Yard app has made ordering food so convenient. With just a few taps, my meals are on their way. The restaurant recommendations are fantastic too!",
+    "rating": 4.8,
+    "designation": "Customer Experience Specialist"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b59d",
+    "name": "Emily Davis",
+    "image": "https://randomuser.me/api/portraits/women/43.jpg",
+    "body": "Yummy Yard has a great selection of vegetarian options. As a vegetarian, I appreciate the variety and quality of the meals I can order through the website.",
+    "rating": 4.2,
+    "designation": "Quality Assurance Analyst"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b59e",
+    "name": "David Thompson",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg",
+    "body": "I've tried several food ordering platforms, but Yummy Yard stands out for its exceptional customer service. They always address any concerns promptly and professionally.",
+    "rating": 4.7,
+    "designation": "Customer Support Representative"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b59f",
+    "name": "Sarah Wilson",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg",
+    "body": "Yummy Yard offers great deals and discounts regularly. It's a fantastic way to save money while enjoying delicious food from my favorite restaurants.",
+    "rating": 4.6,
+    "designation": "Sales Associate"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b5a0",
+    "name": "Mark Roberts",
+    "image": "https://randomuser.me/api/portraits/men/85.jpg",
+    "body": "Yummy Yard's delivery service is top-notch. I've never experienced any delays, and the delivery personnel are always polite and friendly.",
+    "rating": 4.9,
+    "designation": "Delivery Manager"
+  },
+  {
+    "_id": "61584e9d9c2a4c001fd0b5a1",
+    "name": "Jessica Lee",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "body": "The user interface of Yummy Yard is sleek and modern. It's easy to navigate through the menus and find exactly what I'm craving. A great online food ordering experience!",
+    "rating": 4.3,
+    "designation": "UI/UX Designer"
+  }
+]

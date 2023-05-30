@@ -1,7 +1,8 @@
-import Navbar from "@/components/Navbar";
-import "./globals.css";
 import { Rubik } from "next/font/google";
+import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import "@smastrom/react-rating/style.css";
+import "./globals.css";
 
 const rubik = Rubik({ subsets: ["latin"] });
 

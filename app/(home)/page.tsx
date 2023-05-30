@@ -5,6 +5,7 @@ import ChefRecommends from "@/components/ChefRecommends";
 import Featured from "@/components/Featured";
 import Hero from "@/components/Hero";
 import PopularMenu from "@/components/PopularMenu";
+import Testimonials from "@/components/Testimonials";
 
 const HomePage = () => {
   return (
@@ -16,6 +17,7 @@ const HomePage = () => {
       <CallUs />
       <ChefRecommends />
       <Featured />
+      <Testimonials />
     </main>
   );
 };

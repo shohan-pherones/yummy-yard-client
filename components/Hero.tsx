@@ -2,13 +2,13 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import Overlay from "./Overlay";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay, Pagination, Parallax } from "swiper";
 import { data } from "@/data/sliderImages";
 import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
-import Overlay from "./Overlay";
 
 const Hero = () => {
   return (
