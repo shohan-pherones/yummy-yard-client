@@ -1,13 +1,13 @@
 "use client";
 
 import Image from "next/image";
+import Overlay from "./Overlay";
+import SectionTitle from "./SectionTitle";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination } from "swiper";
 import { data } from "@/data/categoryImages";
-import Overlay from "./Overlay";
 import "swiper/css";
 import "swiper/css/pagination";
-import SectionTitle from "./SectionTitle";
 
 const Category = () => {
   return (

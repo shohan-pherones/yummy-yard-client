@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import Link from "next/link";
 import SectionTitle from "./SectionTitle";
 import MenuItem from "./MenuItem";
-import Link from "next/link";
+import { useEffect, useState } from "react";
 
 const PopularMenu = () => {
   const [menu, setMenu] = useState([]);

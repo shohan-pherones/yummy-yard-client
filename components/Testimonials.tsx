@@ -54,12 +54,14 @@ const Testimonials = () => {
               <div data-swiper-parallax="-800%" className="text-6xl">
                 <IoIosQuote />
               </div>
+
               <p
                 data-swiper-parallax="-200%"
                 className="text-xl max-w-2xl text-center"
               >
                 {item.body}
               </p>
+
               <div data-swiper-parallax="-800%">
                 <Rating
                   style={{ maxWidth: 150 }}
@@ -68,6 +70,7 @@ const Testimonials = () => {
                   itemStyles={myStyles}
                 />
               </div>
+
               <div
                 className="flex items-center gap-5"
                 data-swiper-parallax="-800%"

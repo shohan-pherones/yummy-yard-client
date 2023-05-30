@@ -1,5 +1,5 @@
-import { formatCurrency } from "@/utils/formatCurrency";
 import Image from "next/image";
+import { formatCurrency } from "@/utils/formatCurrency";
 
 interface CardProps {
   image: string;

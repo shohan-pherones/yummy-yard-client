@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.wrapper {
+  @apply container mx-auto px-5 lg:px-0;
+}
+
 .swiper-button-next,
 .swiper-button-prev {
   color: #e45b8c !important;
@@ -15,8 +19,4 @@
 
 .swiper-pagination-bullet-active {
   background-color: #e45b8c !important;
-}
-
-.wrapper {
-  @apply container mx-auto px-5 lg:px-0;
 }

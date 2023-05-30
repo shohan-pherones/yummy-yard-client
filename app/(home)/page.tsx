@@ -1,10 +1,10 @@
-import Bio from "@/components/Bio";
-import CallUs from "@/components/CallUs";
+import Hero from "@/components/Hero";
 import Category from "@/components/Category";
+import Bio from "@/components/Bio";
+import PopularMenu from "@/components/PopularMenu";
+import CallUs from "@/components/CallUs";
 import ChefRecommends from "@/components/ChefRecommends";
 import Featured from "@/components/Featured";
-import Hero from "@/components/Hero";
-import PopularMenu from "@/components/PopularMenu";
 import Testimonials from "@/components/Testimonials";
 
 const HomePage = () => {

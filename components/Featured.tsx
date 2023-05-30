@@ -1,13 +1,13 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { formatCurrency } from "@/utils/formatCurrency";
 import Image from "next/image";
+import Link from "next/link";
 import Overlay from "./Overlay";
 import SectionTitle from "./SectionTitle";
-import Link from "next/link";
-import { defaultOptions } from "@/configs/titlConfig";
+import { useState, useEffect } from "react";
 import { Tilt } from "react-tilt";
+import { formatCurrency } from "@/utils/formatCurrency";
+import { defaultOptions } from "@/configs/titlConfig";
 
 const Featured = () => {
   const [menu, setMenu] = useState([]);
