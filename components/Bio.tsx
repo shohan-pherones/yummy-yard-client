@@ -3,18 +3,7 @@
 import Link from "next/link";
 import Overlay from "./Overlay";
 import { Tilt } from "react-tilt";
-
-const defaultOptions = {
-  reverse: false,
-  max: 20,
-  perspective: 5000,
-  scale: 1,
-  speed: 1000,
-  transition: true,
-  axis: null,
-  reset: true,
-  easing: "cubic-bezier(.03,.98,.52,.99)",
-};
+import { defaultOptions } from "@/configs/titlConfig";
 
 const Bio = () => {
   return (
