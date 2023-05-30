@@ -38,7 +38,7 @@ const Footer = () => {
           </svg>
           <p>
             Yummy Yard Ltd. <br />
-            Providing reliable tech since 1992
+            Providing tasty food since 2010
           </p>
         </div>
         <div className="md:place-self-center md:justify-self-end">

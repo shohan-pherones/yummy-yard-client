@@ -10,7 +10,7 @@ interface CardProps {
 
 const Card: React.FC<CardProps> = ({ image, name, recipe, price }) => {
   return (
-    <div className="card w-full bg-base-100 shadow-md">
+    <div className="card w-full bg-base-100 shadow-lg">
       <figure className="h-60 w-full overflow-hidden">
         <Image
           src={image}
