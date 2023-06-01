@@ -1,20 +1,13 @@
 "use client";
 
+import { useMenu } from "@/hooks/useMenu";
 import Link from "next/link";
 import SectionTitle from "./SectionTitle";
 import MenuItem from "./MenuItem";
-import { useEffect, useState } from "react";
 
 const PopularMenu = () => {
-  const [menu, setMenu] = useState([]);
-
-  useEffect(() => {
-    fetch("/menu.json")
-      .then((res) => res.json())
-      .then((data) =>
-        setMenu(data.filter((item: any) => item.category === "popular"))
-      );
-  }, []);
+  const [menu] = useMenu();
+  const popular = menu.filter((item: any) => item.category === "popular");
 
   return (
     <section className="py-20">
@@ -24,7 +17,7 @@ const PopularMenu = () => {
       />
 
       <div className="wrapper grid lg:grid-cols-2 gap-10 mb-10">
-        {menu.map((item: any) => (
+        {popular.map((item: any) => (
           <MenuItem
             key={item._id}
             name={item.name}

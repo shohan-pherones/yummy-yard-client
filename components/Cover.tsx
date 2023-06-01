@@ -16,7 +16,7 @@ const Cover: React.FC<CoverProps> = ({ image, title, paragraph }) => {
       bgImageAlt={title}
       strength={-200}
     >
-      <section className="hero h-[50vh]">
+      <section className="hero h-[60vh]">
         <div className="hero-overlay bg-opacity-60"></div>
         <div className="hero-content text-center text-neutral-content">
           <div className="max-w-xl">
