@@ -80,14 +80,6 @@
     "category": "popular"
   },
   {
-    "_id": "6151f6f8a5c4d8023cdcf2ea",
-    "name": "Loaded Cheese Fries",
-    "recipe": "Crispy fries topped with melted cheese, crispy bacon bits, tangy sour cream, and chopped green onions.",
-    "price": 8.99,
-    "image": "https://img.freepik.com/free-photo/tray-junk-food-fast-food-chicken-nuggets-french-fries_53876-31291.jpg?w=996&t=st=1685399123~exp=1685399723~hmac=fff2d16499cde48cc2d5bc8faed62ccd91eb03eb1fed90ad2427c519a4c92f06",
-    "category": "fries"
-  },
-  {
     "_id": "6151f6f8a5c4d8023cdcf2eb",
     "name": "Beef Tacos",
     "recipe": "Soft corn tortillas filled with seasoned ground beef, fresh lettuce, diced tomatoes, shredded cheese, and a zesty salsa, served with a side of guacamole and sour cream.",
@@ -110,5 +102,37 @@
     "price": 12.99,
     "image": "https://img.freepik.com/free-photo/plate-crispy-fried-calamari-prawn-tomato-chicken-croquette-sauce_140725-1998.jpg?w=996&t=st=1685399185~exp=1685399785~hmac=6cb5f6395e8f97643c46a2cfab2c9f1b48442e6a543eef3c392a125b59b8ca46",
     "category": "popular"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ee",
+    "name": "Double Bacon Cheeseburger",
+    "recipe": "Two juicy beef patties topped with crispy bacon, melted American cheese, fresh lettuce, ripe tomatoes, and tangy pickles, served on a toasted sesame bun.",
+    "price": 12.99,
+    "image": "https://images.pexels.com/photos/3738762/pexels-photo-3738762.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "burgers"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ef",
+    "name": "BBQ Ranch Burger",
+    "recipe": "Grilled beef patty slathered in tangy BBQ sauce and topped with creamy ranch dressing, crispy onion rings, fresh lettuce, and melted Swiss cheese, served on a brioche bun.",
+    "price": 11.99,
+    "image": "https://images.pexels.com/photos/2282532/pexels-photo-2282532.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "burgers"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f0",
+    "name": "Mushroom Swiss Burger",
+    "recipe": "Grilled beef patty topped with sautéed mushrooms, melted Swiss cheese, and a creamy garlic aioli, served on a toasted ciabatta bun.",
+    "price": 11.99,
+    "image": "https://images.pexels.com/photos/5908059/pexels-photo-5908059.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "burgers"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f2",
+    "name": "Spicy Jalapeno Burger",
+    "recipe": "Grilled beef patty topped with fiery jalapeno peppers, pepper jack cheese, zesty chipotle mayo, fresh lettuce, and ripe tomatoes, served on a sesame seed bun.",
+    "price": 12.99,
+    "image": "https://images.pexels.com/photos/15832872/pexels-photo-15832872/free-photo-of-cheeseburger-with-french-fries-and-three-dipping-sauces.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "burgers"
   }
 ]
