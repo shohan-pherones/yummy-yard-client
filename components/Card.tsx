@@ -23,7 +23,7 @@ const Card: React.FC<CardProps> = ({ image, name, recipe, price }) => {
       </figure>
       <div className="card-body">
         <h2 className="card-title">{name}</h2>
-        <p className="text-black/60">{recipe}</p>
+        <p className="text-black/60 text-left">{recipe}</p>
         <div className="card-actions items-center">
           <p className="card-title text-secondary-focus">
             {formatCurrency(price)}

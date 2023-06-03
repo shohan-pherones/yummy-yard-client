@@ -29,7 +29,7 @@ const PopularMenu = () => {
       </div>
 
       <div className="flex justify-center">
-        <Link href="/" className="btn btn-secondary">
+        <Link href="/menu" className="btn btn-secondary">
           View Full Menu
         </Link>
       </div>

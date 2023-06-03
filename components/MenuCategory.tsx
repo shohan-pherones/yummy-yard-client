@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Cover from "./Cover";
 import MenuItem from "./MenuItem";
 
@@ -17,7 +18,7 @@ const MenuCategory: React.FC<MenuCategoryProps> = ({
   return (
     <section>
       <Cover image={cover} title={title} paragraph={paragraph} />
-      <div className="wrapper grid lg:grid-cols-2 gap-10 my-10">
+      <div className="wrapper grid lg:grid-cols-2 gap-10 pt-20 pb-10">
         {items.map((item: any) => (
           <MenuItem
             key={item._id}
@@ -27,6 +28,15 @@ const MenuCategory: React.FC<MenuCategoryProps> = ({
             price={item.price}
           />
         ))}
+      </div>
+
+      <div className="flex justify-center pb-20">
+        <Link
+          href={`/order?category=${title.toLowerCase()}`}
+          className="btn btn-secondary"
+        >
+          Order Now
+        </Link>
       </div>
     </section>
   );

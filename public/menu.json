@@ -134,5 +134,101 @@
     "price": 12.99,
     "image": "https://images.pexels.com/photos/15832872/pexels-photo-15832872/free-photo-of-cheeseburger-with-french-fries-and-three-dipping-sauces.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "category": "burgers"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f4",
+    "name": "Chicken Alfredo Pasta",
+    "recipe": "Grilled chicken breast slices tossed with fettuccine pasta in a rich and creamy Alfredo sauce, garnished with fresh parsley and Parmesan cheese.",
+    "price": 12.99,
+    "image": "https://images.pexels.com/photos/11220209/pexels-photo-11220209.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "pasta"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f5",
+    "name": "Pesto Pasta",
+    "recipe": "Fusilli pasta tossed in a vibrant green basil pesto sauce with pine nuts, Parmesan cheese, and cherry tomatoes.",
+    "price": 10.99,
+    "image": "https://images.pexels.com/photos/2090921/pexels-photo-2090921.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "pasta"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f6",
+    "name": "Lobster Linguine",
+    "recipe": "Linguine pasta tossed with succulent chunks of lobster meat in a garlic butter sauce, garnished with fresh herbs and lemon zest.",
+    "price": 15.99,
+    "image": "https://images.pexels.com/photos/7364105/pexels-photo-7364105.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "pasta"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f7",
+    "name": "Tonkotsu Ramen",
+    "recipe": "Hearty pork bone broth simmered for hours, served with ramen noodles, tender slices of chashu pork, marinated bamboo shoots, and a seasoned soft-boiled egg.",
+    "price": 12.99,
+    "image": "https://images.pexels.com/photos/884600/pexels-photo-884600.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "ramen"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f8",
+    "name": "Shoyu Ramen",
+    "recipe": "Classic soy sauce-based ramen with a savory broth, accompanied by ramen noodles, slices of roasted pork, scallions, and a seasoned soft-boiled egg.",
+    "price": 11.99,
+    "image": "https://images.pexels.com/photos/698549/pexels-photo-698549.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "ramen"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2f9",
+    "name": "Vegetable Ramen",
+    "recipe": "Vegetarian-friendly ramen featuring a flavorful vegetable broth, a variety of fresh vegetables, tofu, and ramen noodles.",
+    "price": 9.99,
+    "image": "https://images.pexels.com/photos/6249221/pexels-photo-6249221.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "ramen"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ea",
+    "name": "Beef Tacos",
+    "recipe": "Soft corn tortillas filled with seasoned ground beef, shredded lettuce, diced tomatoes, grated cheese, and a dollop of sour cream.",
+    "price": 9.99,
+    "image": "https://images.pexels.com/photos/12261167/pexels-photo-12261167.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "beef"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2eb",
+    "name": "Beef Stroganoff",
+    "recipe": "Tender beef strips cooked in a creamy mushroom sauce, served over egg noodles and garnished with fresh parsley.",
+    "price": 12.99,
+    "image": "https://images.pexels.com/photos/361184/asparagus-steak-veal-steak-veal-361184.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "beef"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ec",
+    "name": "Beef and Broccoli",
+    "recipe": "Sliced beef stir-fried with crisp broccoli florets in a flavorful brown sauce, served over steamed rice.",
+    "price": 11.99,
+    "image": "https://images.pexels.com/photos/5639742/pexels-photo-5639742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "beef"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ed",
+    "name": "Chicken Alfredo",
+    "recipe": "Tender grilled chicken breast served over a bed of fettuccine pasta, tossed in a creamy Alfredo sauce and garnished with fresh parsley.",
+    "price": 12.99,
+    "image": "https://images.pexels.com/photos/2673353/pexels-photo-2673353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "chicken"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ee",
+    "name": "Honey Mustard Chicken",
+    "recipe": "Grilled chicken breast glazed with a sweet and tangy honey mustard sauce, served with roasted vegetables and a side of mashed potatoes.",
+    "price": 13.99,
+    "image": "https://images.pexels.com/photos/11118934/pexels-photo-11118934.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "chicken"
+  },
+  {
+    "_id": "6151f6f8a5c4d8023cdcf2ef",
+    "name": "Chicken Teriyaki",
+    "recipe": "Tender chicken thighs marinated in a flavorful teriyaki sauce, grilled to perfection and served with steamed rice and stir-fried vegetables.",
+    "price": 11.99,
+    "image": "https://images.pexels.com/photos/2960569/pexels-photo-2960569.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "category": "chicken"
   }
 ]
