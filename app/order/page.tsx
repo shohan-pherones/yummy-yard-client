@@ -47,7 +47,12 @@ const OrderFoodPage = ({
 
         <Box>
           <TabContext value={value}>
-            <Box sx={{ borderBottom: 1, borderColor: "divider" }}>
+            <Box
+              sx={{
+                borderBottom: 1,
+                borderColor: "divider",
+              }}
+            >
               <TabList
                 aria-label="Order Food Tabs"
                 onChange={handleChange}
