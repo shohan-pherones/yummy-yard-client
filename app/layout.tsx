@@ -1,3 +1,6 @@
+"use client";
+
+import { ThemeProvider, createTheme } from "@mui/material";
 import { Rubik } from "next/font/google";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -24,6 +27,20 @@ export const metadata = {
   ],
 };
 
+const theme = createTheme({
+  typography: {
+    fontFamily: ["Rubik", "sans-serif"].join(","),
+  },
+  palette: {
+    primary: {
+      light: "#c084fc",
+      main: "#a855f7",
+      dark: "#7e22ce",
+      contrastText: "#fff",
+    },
+  },
+});
+
 export default function RootLayout({
   children,
 }: {
@@ -32,9 +49,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={rubik.className}>
-        <Navbar />
-        {children}
-        <Footer />
+        <ThemeProvider theme={theme}>
+          <Navbar />
+          {children}
+          <Footer />
+        </ThemeProvider>
       </body>
     </html>
   );

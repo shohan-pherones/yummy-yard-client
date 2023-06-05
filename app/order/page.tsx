@@ -56,8 +56,6 @@ const OrderFoodPage = ({
               <TabList
                 aria-label="Order Food Tabs"
                 onChange={handleChange}
-                textColor="secondary"
-                indicatorColor="secondary"
                 centered
               >
                 <Tab label="Burgers" value="0" />
